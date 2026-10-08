@@ -1,9 +1,9 @@
 # Design Systems and Wireframing
 
-Full Stack Decal vitamin. Landing page design for an imaginary ice cream shop called **Mellow**.
+Landing page design for an ice cream shop called **Mellow**.
 
 ## Links
-- [Figma file]((https://www.figma.com/design/BqyOtMvw1N0hs5V01MDheJ/Fullstack-Decal-Vitamin---Design-Systems---Wireframing--Copy-?node-id=0-1&t=72ehcUBHeu2Zolyo-1)) (public)
+- [Figma file](https://www.figma.com/design/BqyOtMvw1N0hs5V01MDheJ/Fullstack-Decal-Vitamin---Design-Systems---Wireframing--Copy-?node-id=0-1&t=72ehcUBHeu2Zolyo-1) (public)
 
 ## Part 1: Design System
 
